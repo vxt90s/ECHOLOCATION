@@ -1,6 +1,6 @@
 # ECHOLOCATION
 
-A browser-based horror and action game experience featuring two different game modes.
+Only for PC's a browser-based horror and action game experience featuring two different game modes. 
 
 ## 🎮 About the Project
 
